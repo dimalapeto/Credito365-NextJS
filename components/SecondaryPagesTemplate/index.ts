@@ -1,0 +1,1 @@
+export { SecondaryPagesTemplate } from './SecondaryPagesTemplate';
